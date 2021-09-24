@@ -1,0 +1,76 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+
+hr {
+	color: red;
+}
+
+.font20 {
+	font-size: 20px;
+	color: #000000;
+	font-family: monospace;
+}
+
+.navfont {
+	font-size: 20px;
+	color: #7d2e8a;
+}
+
+.topback {
+	background-color: black;
+}
+
+.center {
+	text-align: center;
+}
+
+.top {
+	background-color: white;
+	font-color: #c862d9;
+	font-family: Sofia;
+	color: #c862d9;
+	color: #7d2e8a;
+	font-size: 70px;
+	text-align: center;
+	padding: 1.5em;
+	border-color: black;
+	margin: -5px -0px 0px -0px;
+}
+
+.skillset {
+	background-color: white;
+	color: #c862d9;
+	color: #7d2e8a;
+	font-family: Explora;
+	align-items: center;
+}
+
+.skill {
+	column-count: 4;
+	column-width: 33%;
+	column-gap: 50px;
+	
+}
+
+
+
+.column {
+	column-count: 2;
+	column-gap: 3em;
+	padding: 150px;
+}
+
+}
+
+body {
+	background-color: white;
+}
+
+
+
+
+
+
+
+
+
