@@ -68,7 +68,11 @@ hr {
 	padding: 20px;
 }
 
-
+.footer {
+	column-count: 4;
+	column-gap: 2em;
+	padding: 1%;
+}
 
 /*.column {
 	column-count: 2;
