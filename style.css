@@ -56,20 +56,25 @@ hr {
 }
 
 .skill {
-	display: block;
-	column-count: 4;
+	display: block-inline;
+/*	column-count: 4;
 	column-width: 25%;
-	column-gap: 3%;
-	
+	column-gap: 5px;
+*/	
+}
+
+.skill img {
+	column-gap: 5px;
+	padding: 20px;
 }
 
 
 
-.column {
+/*.column {
 	column-count: 2;
 	column-gap: 3em;
 	padding: 150px;
-}
+}*/
 
 }
 
