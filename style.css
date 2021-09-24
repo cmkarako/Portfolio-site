@@ -69,8 +69,8 @@ hr {
 }
 
 .footer {
-	column-count: 4;
-	column-gap: 2em;
+	display:block;
+
 	padding: 1%;
 }
 
