@@ -117,6 +117,8 @@ h1 {
 
 iframe {
 	text-align: center;
+	display: block;
+	
 }
 
 
