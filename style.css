@@ -78,6 +78,8 @@ hr {
 .footer a {
 	display: block-inline;
 	padding: 20px;
+	color: #76427e;
+	text-decoration: underline;
 }
 
 /*.column {
