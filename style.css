@@ -122,6 +122,18 @@ iframe {
 
 }
 
+.video {
+	display: block-inline;
+	text-align: center;
+	postion: relative;
+	overflow: hidden;
+	width: 100%;
+	
+}
 
+.responsive_video {
+	position: absolute;
+	width: 100%;
+}
 
 
