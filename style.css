@@ -117,10 +117,41 @@ h1 {
 
 }
 
+.mov-container {
+	width: 50%;
+	margin: auto;
+}
+
+.movie1 {
+	position: relative;
+	padding-top: 56.25%;
+	width: 60%;
+	margin: auto;
+}
+
 iframe {
-	text-align: center;
+	width: 100vw;
+	height: 56.25vw;
+	position: absolute;
+}
+
+.cakesite {
+	position: relative;
 
 }
+
+.cakesite img {
+	display: block;
+	width: 50%;
+	margin: auto;
+	align-content: center;
+}
+
+
+
+
+
+
 
 
 
