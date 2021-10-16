@@ -166,7 +166,7 @@ a {
   white-space: nowrap;
   margin: 0 auto;
   animation: 
-  	typing 4.5s steps(80, end) forwards;
+  	typing 4s steps(80, end) forwards;
   font-size: 1.6rem;
   width: 0;
 	font-family: Sofia;
