@@ -156,6 +156,7 @@ a {
 
 .container {
 	display: inline-block;
+	position: absolute;
 	}
 
 .typed-out {
@@ -164,7 +165,6 @@ a {
   border-right: .15em solid white; 
   white-space: nowrap;
   margin: 0 auto;
-  letter-spacing: .15em;
   animation: 
   	typing 4s steps(24, end) forwards;
   font-size: 1.6rem;
