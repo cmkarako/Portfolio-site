@@ -8,7 +8,7 @@ hr {
 	height: 100px;
 	border: 100px;
 	border-color: #7d2e8a;
-	background: #7d2e8a;
+/*	background: #7d2e8a;*/
 	padding-top: .2em;
 	margin: 3%;
 }
@@ -25,7 +25,7 @@ hr {
 }
 
 .topback {
-	background-color: white;
+/*	background-color: white;*/
 }
 
 .center {
@@ -34,7 +34,7 @@ hr {
 }
 
 .top {
-	background-color: white;
+/*	background-color: #B863F1;*/
 	font-color: #c862d9;
 	font-family: Sofia;
 	color: #c862d9;
@@ -48,7 +48,7 @@ hr {
 
 .skillset {
 	display: block;
-	background-color: white;
+/*	background-color: white;*/
 	color: #c862d9;
 	color: #7d2e8a;
 	font-family: Explora;
@@ -70,7 +70,7 @@ hr {
 }
 
 .footer {
-	background-color: white;
+/*	background-color: white;*/
 	padding: 0px;
 	text-align: center;
 }
@@ -91,7 +91,8 @@ hr {
 }
 
 body {
-	background-color: white;
+	background-color: #B863F1 !important;
+	align-items: center;
 }
 
 h3 {
@@ -155,8 +156,7 @@ a {
 }
 
 .container {
-	display: inline-block;
-	position: absolute;
+	display: block;
 	}
 
 .typed-out {
@@ -166,7 +166,7 @@ a {
   white-space: nowrap;
   margin: 0 auto;
   animation: 
-  	typing 4s steps(24, end) forwards;
+  	typing 4.5s steps(80, end) forwards;
   font-size: 1.6rem;
   width: 0;
 	font-family: Sofia;
