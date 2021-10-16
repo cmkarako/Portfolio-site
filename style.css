@@ -162,7 +162,7 @@ a {
 .typed-out {
 	overflow: hidden;
 	text-align: center;
-  border-right: .15em solid gray; 
+/*  border-right: .15em solid gray; */
   white-space: nowrap;
   margin: 0 auto;
   animation: 
